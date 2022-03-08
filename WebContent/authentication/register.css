@@ -1,0 +1,10 @@
+@charset "UTF-8";
+*{
+    box-sizing: border-box;
+}
+.container{
+    padding: 16px;
+}
+#firstname{
+	background-color: #6fec80;
+}
