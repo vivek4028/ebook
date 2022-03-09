@@ -15,6 +15,7 @@
       crossorigin="anonymous"a
     />
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="animistyle.scss" />
     <title>E-books Hub</title>
   </head>
   <body>
