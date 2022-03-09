@@ -24,10 +24,10 @@
 
             <hr>
             <p>By Logging to account you agree to our <a href="#">Terms & Privacy</a>.</p>
-            <button type="submit" class="registerbtn">Login</button>
+            <button type="submit" class="loginbtn">Login</button>
         </div>
 
-        <div class="container signin">
+        <div class="container signup">
             <p>Already have an account? <a href="register.jsp">Register</a></p>
         </div>
     </form>

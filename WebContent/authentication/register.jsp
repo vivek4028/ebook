@@ -11,7 +11,7 @@
 </head>
 <body>
     <form action="">
-    <pre>
+    
         <div class="container">
             <h1>Create an account</h1>
             <hr>
@@ -37,7 +37,7 @@
         <div class="container signin">
             <p>Don't have an account? <a href="login.jsp">Login</a></p>
         </div>
-        </pre>
+       
     </form>
 </body>
 </html>
