@@ -25,7 +25,7 @@
     ></script>
     <div class="container">
       <nav class="navbar navbar-light justify-content-between">
-        <img href="index.jsp" src="images/logo.png" width="100" height="100" alt=""/>
+        <a href="index.jsp" ><img src="images/logo.png" width="100" height="100" alt=""/></a>
         <a href="index.jsp" class="navbar-brand">E-books Hub</a>
         <div class="navbar justify-content-between">
           <strong><a class="nav-item nav-link login" href="authentication/login.jsp">Login</a></strong>
